@@ -1,6 +1,6 @@
 # playground
 
-A fast simple playground to test some ideas.
+A simple playground to test some ideas.
 Uses [SCSS](https://sass-lang.com/) and [Parcel](https://parceljs.org/) to bundle and run a quick development server.
 
 1. Run `npm i`

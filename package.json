@@ -1,7 +1,7 @@
 {
   "name": "playground",
   "version": "1.0.0",
-  "description": "A simple playground, to test some ideas.",
+  "description": "A simple playground to test some ideas.",
   "main": "src/index.js",
   "scripts": {
     "start": "parcel src/index.html -p 9437",
